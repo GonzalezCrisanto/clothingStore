@@ -1,0 +1,520 @@
+# depslib dependency file v1.0
+1667431049 source:c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1667431222 c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\prendas.h
+
+1667234143 source:c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\clientes.c
+	"clientes.h"
+
+1667234143 c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1667431422 source:c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+
+1667167127 c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1667234150 c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1667171072 source:c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1667234188 source:c:\users\gabriel\onedrive\escritorio\tp final labo ii\tp final\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1668379866 source:c:\users\joako\onedrive\escritorio\tp final\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1667431222 c:\users\joako\onedrive\escritorio\tp final\prendas.h
+
+1668377547 c:\users\joako\onedrive\escritorio\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668379542 c:\users\joako\onedrive\escritorio\tp final\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1667234188 source:c:\users\joako\onedrive\escritorio\tp final\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1667167127 c:\users\joako\onedrive\escritorio\tp final\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1668376162 source:c:\users\joako\onedrive\escritorio\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1667431049 source:c:\users\joako\onedrive\escritorio\tp final\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1668379724 source:c:\users\joako\onedrive\escritorio\tp final\clientes.c
+	"clientes.h"
+	"Factura.h"
+
+1668373334 source:c:\users\joako\onedrive\escritorio\tp final\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668373335 c:\users\joako\onedrive\escritorio\tp final\empleados.h
+
+1668379724 source:c:\users\usuario\desktop\tp final\clientes.c
+	"clientes.h"
+	"Factura.h"
+
+1668377547 c:\users\usuario\desktop\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668379542 c:\users\usuario\desktop\tp final\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1667431222 c:\users\usuario\desktop\tp final\prendas.h
+
+1668379866 source:c:\users\usuario\desktop\tp final\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1667234188 source:c:\users\usuario\desktop\tp final\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1667167127 c:\users\usuario\desktop\tp final\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1667431049 source:c:\users\usuario\desktop\tp final\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1668440889 source:c:\users\usuario\desktop\tp final\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668440392 c:\users\usuario\desktop\tp final\empleados.h
+
+1668440601 source:c:\users\usuario\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1668456857 source:c:\users\nacho\desktop\tp final-2.0\clientes.c
+	"Clientes.h"
+	"Factura.h"
+
+1668456810 c:\users\nacho\desktop\tp final-2.0\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668456757 c:\users\nacho\desktop\tp final-2.0\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1668451521 c:\users\nacho\desktop\tp final-2.0\prendas.h
+
+1668452308 source:c:\users\nacho\desktop\tp final-2.0\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668452377 c:\users\nacho\desktop\tp final-2.0\empleados.h
+
+1668456757 source:c:\users\nacho\desktop\tp final-2.0\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1668454673 source:c:\users\nacho\desktop\tp final-2.0\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1668454608 c:\users\nacho\desktop\tp final-2.0\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1668456491 source:c:\users\nacho\desktop\tp final-2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1668454570 source:c:\users\nacho\desktop\tp final-2.0\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1668521330 source:c:\users\nacho\desktop\tp final-3.0\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668452377 c:\users\nacho\desktop\tp final-3.0\empleados.h
+
+1668525336 source:c:\users\nacho\desktop\tp final-3.0\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1668451521 c:\users\nacho\desktop\tp final-3.0\prendas.h
+
+1668526447 c:\users\nacho\desktop\tp final-3.0\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668456757 c:\users\nacho\desktop\tp final-3.0\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1668528480 source:c:\users\nacho\desktop\tp final-3.0\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1668528480 c:\users\nacho\desktop\tp final-3.0\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1668524573 source:c:\users\nacho\desktop\tp final-3.0\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1668526425 source:c:\users\nacho\desktop\tp final-3.0\clientes.c
+	"Clientes.h"
+	"Factura.h"
+
+1668528710 source:c:\users\nacho\desktop\tp final-3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1668631895 source:c:\users\nacho\desktop\tp final-4.0\clientes.c
+	"Clientes.h"
+	"Factura.h"
+
+1668628486 c:\users\nacho\desktop\tp final-4.0\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668456757 c:\users\nacho\desktop\tp final-4.0\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1668451521 c:\users\nacho\desktop\tp final-4.0\prendas.h
+
+1668630666 source:c:\users\nacho\desktop\tp final-4.0\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668452377 c:\users\nacho\desktop\tp final-4.0\empleados.h
+
+1668601059 source:c:\users\nacho\desktop\tp final-4.0\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1668528480 source:c:\users\nacho\desktop\tp final-4.0\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1668528480 c:\users\nacho\desktop\tp final-4.0\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1668631276 source:c:\users\nacho\desktop\tp final-4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1668629561 source:c:\users\nacho\desktop\tp final-4.0\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1668697543 source:c:\users\gabriel\onedrive\escritorio\tp final-6.0\clientes.c
+	"Clientes.h"
+	"Factura.h"
+
+1668697543 c:\users\gabriel\onedrive\escritorio\tp final-6.0\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668456757 c:\users\gabriel\onedrive\escritorio\tp final-6.0\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1668451521 c:\users\gabriel\onedrive\escritorio\tp final-6.0\prendas.h
+
+1668630666 source:c:\users\gabriel\onedrive\escritorio\tp final-6.0\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668452377 c:\users\gabriel\onedrive\escritorio\tp final-6.0\empleados.h
+
+1668601059 source:c:\users\gabriel\onedrive\escritorio\tp final-6.0\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1668696256 source:c:\users\gabriel\onedrive\escritorio\tp final-6.0\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1668696248 c:\users\gabriel\onedrive\escritorio\tp final-6.0\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1668696459 source:c:\users\gabriel\onedrive\escritorio\tp final-6.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1668693818 source:c:\users\gabriel\onedrive\escritorio\tp final-6.0\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
+1668697543 source:c:\users\gabriel\onedrive\escritorio\tp final-6.2\clientes.c
+	"Clientes.h"
+	"Factura.h"
+
+1668697543 c:\users\gabriel\onedrive\escritorio\tp final-6.2\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+	<string.h>
+	<conio.h>
+
+1668456757 c:\users\gabriel\onedrive\escritorio\tp final-6.2\factura.h
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+
+1668451521 c:\users\gabriel\onedrive\escritorio\tp final-6.2\prendas.h
+
+1668630666 source:c:\users\gabriel\onedrive\escritorio\tp final-6.2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	"empleados.h"
+
+1668452377 c:\users\gabriel\onedrive\escritorio\tp final-6.2\empleados.h
+
+1668601059 source:c:\users\gabriel\onedrive\escritorio\tp final-6.2\factura.c
+	<stdlib.h>
+	<stdio.h>
+	"Prendas.h"
+	"Clientes.h"
+
+1668696256 source:c:\users\gabriel\onedrive\escritorio\tp final-6.2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Fila.h"
+	"Factura.h"
+
+1668696248 c:\users\gabriel\onedrive\escritorio\tp final-6.2\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Factura.h"
+
+1668696459 source:c:\users\gabriel\onedrive\escritorio\tp final-6.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"Fila.h"
+	"Clientes.h"
+	"Factura.h"
+	"Prendas.h"
+	"empleados.h"
+
+1668693818 source:c:\users\gabriel\onedrive\escritorio\tp final-6.2\prendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Prendas.h"
+
